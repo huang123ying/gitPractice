@@ -5,6 +5,6 @@
  */
 public class mergePractice {
     public static void main(String[] args) {
-        
+
     }
 }
