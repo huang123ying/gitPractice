@@ -4,4 +4,7 @@
  * @date: 2022-08-07 15:16
  */
 public class mergePractice {
+    public static void main(String[] args) {
+        
+    }
 }
