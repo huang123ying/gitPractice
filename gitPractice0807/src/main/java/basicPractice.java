@@ -5,6 +5,6 @@
  */
 public class basicPractice {
     public static void main(String[] args) {
-        System.out.println("我在master分支上");
+        System.out.println("我在yuwan分支上");
     }
 }
