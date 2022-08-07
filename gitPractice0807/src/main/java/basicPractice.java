@@ -5,6 +5,6 @@
  */
 public class basicPractice {
     public static void main(String[] args) {
-        System.out.println("这是一个git基本操作的练习");
+        System.out.println("我在master分支上");
     }
 }
